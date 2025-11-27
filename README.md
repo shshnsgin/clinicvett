@@ -18,4 +18,4 @@ uvicorn main:app --reload
 http://localhost:8000/docs
 
 ## Автор:
-Имя Фамилия
+Акторе Аскар
